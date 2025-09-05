@@ -7,7 +7,7 @@
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
 - <b>🛡️ GRC & Analyst Skills</b>
-  - Governance & Regulation
+  - [Governance & Regulation](https://github.com/AJENt8/Governance-Regulation/blob/main/README.md) 
   - Threats and Risks
   
 - <b>🔒 Hands-On Vulnerability Labs</b>
