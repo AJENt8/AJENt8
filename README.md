@@ -7,12 +7,12 @@
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](ADDURL)
 - <b>Linux</b>
-  - [Priviledge Escalation](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Hello World!](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Priviledge Escalation](https://github.com/AJENt8/Linux-Privilege-Escalation)
+  - [Hello World!](ADDURL)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](ADDURL)
 
 <h2>📄 Certifications:</h2>
 
