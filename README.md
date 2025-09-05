@@ -6,7 +6,7 @@
 
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
-- <b>VulnerabilityScanner Lab</b>
+- <b>Vulnerability Scanner Lab</b>
   - [Nessus](https://github.com/AJENt8/Nessus-Vulnerability-Management/blob/main/README.md)
 - <b>Linux</b>
   - [Priviledge Escalation](https://github.com/AJENt8/Linux-Privilege-Escalation)
