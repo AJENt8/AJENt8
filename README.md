@@ -14,6 +14,7 @@
   - [Nessus Essentials](https://github.com/AJENt8/Nessus-Vulnerability-Management/blob/main/README.md)
   - OpenVAS Scan
   - Web Scanning (Nikto)
+  - Nmap
 - <b>🐧 Linux Projects</b>
   - [Priviledge Escalation (OverlayFS Exploit)](https://github.com/AJENt8/Linux-Privilege-Escalation)
   - [Permissions Management or System Monitoring Script]
