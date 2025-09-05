@@ -6,13 +6,14 @@
 
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](ADDURL)
+- <b>VulnerabilityScanner Lab</b>
+  - [Nessus](https://github.com/AJENt8/Nessus-Vulnerability-Management/blob/main/README.md)
 - <b>Linux</b>
   - [Priviledge Escalation](https://github.com/AJENt8/Linux-Privilege-Escalation)
   - [Hello World!](ADDURL)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](ADDURL)
+  - [Praciting DS & Algos in Python](ADDURL)
 
 <h2>📄 Certifications:</h2>
 
