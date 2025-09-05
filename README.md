@@ -7,8 +7,8 @@
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
 - <b>🛡️ GRC & Analyst Skills</b>
-  - [Governance & Regulation]
-  - [Threats and Risks]
+  - Governance & Regulation
+  - Threats and Risks
   
 - <b>🔒 Hands-On Vulnerability Labs</b>
   - [Nessus Essentials](https://github.com/AJENt8/Nessus-Vulnerability-Management/blob/main/README.md)
