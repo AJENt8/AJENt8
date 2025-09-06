@@ -18,7 +18,7 @@
 
 - <b>🐧 Linux Projects</b>
   - [Priviledge Escalation (OverlayFS Exploit)](https://github.com/AJENt8/Linux-Privilege-Escalation)
-  - [Permissions Management or System Monitoring Script]
+  - [Permissions Management & System Monitoring]()
 - <b>🐍 Python Projects</b>
   - [Python for Pentesters]
   - [Build-Your-Own Tool (Custom Tooling with Python)]
