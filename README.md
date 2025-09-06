@@ -13,7 +13,7 @@
 - <b>🔒 Hands-On Vulnerability Labs</b>
   - [Nessus Essentials](https://github.com/AJENt8/Nessus-Vulnerability-Management/blob/main/README.md)
   - OpenVAS Scan
-  - [Nmap Room](https://github.com/AJENt8/Nmap/blob/main/README.md)
+  - [Nmap](https://github.com/AJENt8/Nmap/blob/main/README.md)
   - Web Scanning (Nikto)
 
 - <b>🐧 Linux Projects</b>
