@@ -19,7 +19,7 @@
 - <b>🐧 Linux Projects</b>
   - [Priviledge Escalation (OverlayFS Exploit)](https://github.com/AJENt8/Linux-Privilege-Escalation)
   - [Permissions Management & System Monitoring](https://github.com/AJENt8/Linux-Permissions-Monitoring/blob/main/README.md)
-  - Docker Set-up
+  - Troubleshoot Complex Docker Installation
 - <b>🐍 Python Projects</b>
   - [Python for Pentesters]
   - [Build-Your-Own Tool (Custom Tooling with Python)]
