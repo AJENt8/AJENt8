@@ -8,7 +8,7 @@
 
 - <b>🛡️ GRC & Analyst Skills</b>
   - [Governance & Regulation](https://github.com/AJENt8/Governance-Regulation/blob/main/README.md)
-  - IAM
+  - Identity and Access Management (IAM)
   - Threats and Risks
   
 - <b>🔒 Hands-On Vulnerability Labs</b>
