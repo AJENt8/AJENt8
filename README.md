@@ -12,13 +12,14 @@
   
 - <b>🔒 Hands-On Vulnerability Labs</b>
   - [Nessus Essentials](https://github.com/AJENt8/Nessus-Vulnerability-Management/blob/main/README.md)
-  - OpenVAS Scan
+  - [OpenVAS Scan](https://github.com/AJENt8/OpenVAS/blob/main/README.md)
   - [Nmap](https://github.com/AJENt8/Nmap/blob/main/README.md)
   - Web Scanning (Nikto)
 
 - <b>🐧 Linux Projects</b>
   - [Priviledge Escalation (OverlayFS Exploit)](https://github.com/AJENt8/Linux-Privilege-Escalation)
   - [Permissions Management & System Monitoring](https://github.com/AJENt8/Linux-Permissions-Monitoring/blob/main/README.md)
+  - Docker Set-up
 - <b>🐍 Python Projects</b>
   - [Python for Pentesters]
   - [Build-Your-Own Tool (Custom Tooling with Python)]
