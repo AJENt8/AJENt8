@@ -15,6 +15,7 @@
   - [Nessus Essentials](https://github.com/AJENt8/Nessus-Vulnerability-Management/blob/main/README.md)
   - [OpenVAS Scan](https://github.com/AJENt8/OpenVAS/blob/main/README.md)
   - [Nmap](https://github.com/AJENt8/Nmap/blob/main/README.md)
+  - Wireshark
   - Web Scanning (Nikto)
 
 - <b>🐧 Linux Projects</b>
