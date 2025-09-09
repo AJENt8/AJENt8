@@ -23,8 +23,9 @@
   - [Permissions Management & System Monitoring](https://github.com/AJENt8/Linux-Permissions-Monitoring/blob/main/README.md)
   - [Troubleshoot Complex Docker Installation](https://github.com/AJENt8/docker.io-Installation/blob/main/README.md)
 - <b>🐍 Python Projects</b>
-  - [Python for Pentesters]
-  - [Build-Your-Own Tool (Custom Tooling with Python)]
+  - [Python Basics](https://github.com/AJENt8/PythonProgramming/blob/main/README.md)
+  - Python for Pentesters
+  - Build-Your-Own Tool (Custom Tooling with Python)
 
 <h2>📄 Certifications:</h2>
 
