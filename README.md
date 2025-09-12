@@ -18,6 +18,9 @@
   - [Wireshark](https://github.com/AJENt8/Wireshark/blob/main/README.md)
   - Web Scanning (Nikto)
 
+- <b> 🔎 Security Information and Event Management (SIEM) </b>
+  - Splunk
+    
 - <b>🐧 Linux Projects</b>
   - [Priviledge Escalation (OverlayFS Exploit)](https://github.com/AJENt8/Linux-Privilege-Escalation)
   - [Permissions Management & System Monitoring](https://github.com/AJENt8/Linux-Permissions-Monitoring/blob/main/README.md)
