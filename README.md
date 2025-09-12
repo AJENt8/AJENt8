@@ -20,7 +20,7 @@
   - Web Scanning (Nikto)
 
 - <b> 📊 SIEM Projects </b>
-  - Splunk
+  - [Splunk Basics](https://github.com/AJENt8/Splunk-Basics/blob/main/README.md)
   - Elastic Stack (ELK)
   - Wazuh
   - Security Event Triage & Correlation
