@@ -10,6 +10,7 @@
   - [Governance & Regulation](https://github.com/AJENt8/Governance-Regulation/blob/main/README.md)
   - [Identity and Access Management (IAM)](https://github.com/AJENt8/IAM-AWSBuilderLab/blob/main/README.md)
   - Threats and Risks
+  - [SQL Security Filtering](https://github.com/AJENt8/SQL-Security-Filtering/blob/main/README.md)
   
 - <b>🔒 Hands-On Vulnerability Labs</b>
   - [Nessus Essentials](https://github.com/AJENt8/Nessus-Vulnerability-Management/blob/main/README.md)
@@ -20,6 +21,9 @@
 
 - <b> 📊 SIEM Projects </b>
   - Splunk
+  - Elastic Stack (ELK)
+  - Wazuh
+  - Security Event Triage & Correlation
     
 - <b>🐧 Linux Projects</b>
   - [Priviledge Escalation (OverlayFS Exploit)](https://github.com/AJENt8/Linux-Privilege-Escalation)
