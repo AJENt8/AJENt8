@@ -18,7 +18,7 @@
   - [Wireshark](https://github.com/AJENt8/Wireshark/blob/main/README.md)
   - Web Scanning (Nikto)
 
-- <b> 🔎 Security Information and Event Management (SIEM) </b>
+- <b> 📊 SIEM Projects </b>
   - Splunk
     
 - <b>🐧 Linux Projects</b>
