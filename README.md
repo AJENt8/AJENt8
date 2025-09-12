@@ -24,7 +24,7 @@
   - [Troubleshoot Complex Docker Installation](https://github.com/AJENt8/docker.io-Installation/blob/main/README.md)
 - <b>🐍 Python Projects</b>
   - [Python Basics](https://github.com/AJENt8/PythonProgramming/blob/main/README.md)
-  - Python for Pentesters
+  - [Python for Pentesters](https://github.com/AJENt8/Python-For-Pentesters/blob/main/README.md)
   - Build-Your-Own Tool (Custom Tooling with Python)
 
 <h2>📄 Certifications:</h2>
