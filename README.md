@@ -25,7 +25,7 @@
 - <b>🐍 Python Projects</b>
   - [Python Basics](https://github.com/AJENt8/PythonProgramming/blob/main/README.md)
   - [Python for Pentesters](https://github.com/AJENt8/Python-For-Pentesters/blob/main/README.md)
-  - Build-Your-Own Tool (Custom Tooling with Python)
+  - [Build-Your-Own Tool (Custom Tooling with Python)](https://github.com/AJENt8/Custom-Tooling-Python/blob/main/README.md)
 
 <h2>📄 Certifications:</h2>
 
