@@ -21,7 +21,7 @@
 
 - <b> 📊 SIEM Projects </b>
   - [Splunk Basics](https://github.com/AJENt8/Splunk-Basics/blob/main/README.md)
-  - Elastic Stack (ELK)
+  - [Elasticsearch, Logstash, and Kibana (ELK)](https://github.com/AJENt8/ELK/blob/main/README.md)
   - Wazuh
   - Security Event Triage & Correlation
     
