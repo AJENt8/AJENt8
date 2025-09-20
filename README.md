@@ -11,7 +11,7 @@
   - [Identity and Access Management (IAM)](https://github.com/AJENt8/IAM-AWSBuilderLab/blob/main/README.md)
   - Threats and Risks
   - [SQL Security Filtering](https://github.com/AJENt8/SQL-Security-Filtering/blob/main/README.md)
-  - [Compliant Mind (AI Chatbot Creation)]() 
+  - [Compliant Mind (AI Chatbot Creation)](https://github.com/AJENt8/CompliantMind/blob/main/README.md) 
   
 - <b>🔒 Hands-On Vulnerability Labs</b>
   - [Nessus Essentials](https://github.com/AJENt8/Nessus-Vulnerability-Management/blob/main/README.md)
