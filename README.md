@@ -31,10 +31,12 @@
   - [Priviledge Escalation (OverlayFS Exploit)](https://github.com/AJENt8/Linux-Privilege-Escalation)
   - [Permissions Management & System Monitoring](https://github.com/AJENt8/Linux-Permissions-Monitoring/blob/main/README.md)
   - [Troubleshoot Complex Docker Installation](https://github.com/AJENt8/docker.io-Installation/blob/main/README.md)
+  - [Linux Shells]()
 - <b>🐍 Python Projects</b>
   - [Python Basics](https://github.com/AJENt8/PythonProgramming/blob/main/README.md)
   - [Python for Pentesters](https://github.com/AJENt8/Python-For-Pentesters/blob/main/README.md)
   - [Build-Your-Own Tool (Custom Tooling with Python)](https://github.com/AJENt8/Custom-Tooling-Python/blob/main/README.md)
+    
 
 <h2>📄 Certifications:</h2>
 
