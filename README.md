@@ -40,7 +40,7 @@
 
 <h2>📄 Certifications:</h2>
 
-- <b>CompTIA Security+ (P)</b>
+- <b>CompTIA Security+</b>
 - <b>CompTIA Linux+ (P)</b>
 - <b>FEMA National Incident Management System (NIMS): ICS-100</b>
 - <b>Google Cybersecurity Specialization</b>
