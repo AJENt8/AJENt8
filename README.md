@@ -8,6 +8,7 @@
 
 - <b>🛡️ GRC & Analyst Skills</b>
   - [Governance & Regulation](https://github.com/AJENt8/Governance-Regulation/blob/main/README.md)
+  - [POAMS](https://github.com/AJENt8/STIGs-POA-M-Simulation/blob/main/README.md)
   - [Identity and Access Management (IAM)](https://github.com/AJENt8/IAM-AWSBuilderLab/blob/main/README.md)
   - Threats and Risks
   - [SQL Security Filtering](https://github.com/AJENt8/SQL-Security-Filtering/blob/main/README.md)
