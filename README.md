@@ -19,7 +19,7 @@
   - [AXIOM Examine]()
   - [FTK Imager]()
   - [HashCalc]()
-  - [KAPE - Kroll Artifact Parser & Extractor]()
+  - [KAPE (Kroll Artifact Parser & Extractor) + EZViewer](https://github.com/AJENt8/Utilizing-KAPE-with-EZViewer/blob/main/README.md)
   
 - <b>🔒 Hands-On Vulnerability Labs</b>
   - [Nessus Essentials](https://github.com/AJENt8/Nessus-Vulnerability-Management/blob/main/README.md)
