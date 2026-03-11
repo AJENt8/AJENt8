@@ -15,7 +15,7 @@
   - [Compliant Mind (AI Chatbot Creation)](https://github.com/AJENt8/CompliantMind/blob/main/README.md) 
 
 - <b>🧰 Windows Forensics Labs</b>
-  - [EnCase Artifact Explorer]()
+  - [EnCase Artifact Explorer](https://github.com/AJENt8/EnCase-Artifact-Explorer/blob/main/README.md)
   - [AXIOM Examine]()
   - [FTK Imager]()
   - [HashCalc]()
