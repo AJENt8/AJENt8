@@ -13,6 +13,13 @@
   - Threats and Risks
   - [SQL Security Filtering](https://github.com/AJENt8/SQL-Security-Filtering/blob/main/README.md)
   - [Compliant Mind (AI Chatbot Creation)](https://github.com/AJENt8/CompliantMind/blob/main/README.md) 
+
+- <b>🧰 Windows Forensics Labs</b>
+  - [EnCase Artifact Explorer]()
+  - [AXIOM Examine]()
+  - [FTK Imager]()
+  - [HashCalc]()
+  - [KAPE - Kroll Artifact Parser & Extractor]()
   
 - <b>🔒 Hands-On Vulnerability Labs</b>
   - [Nessus Essentials](https://github.com/AJENt8/Nessus-Vulnerability-Management/blob/main/README.md)
