@@ -18,7 +18,7 @@
   - [EnCase Artifact Explorer](https://github.com/AJENt8/EnCase-Artifact-Explorer/blob/main/README.md)
   - [AXIOM Examine](https://github.com/AJENt8/Magnet-AXIOM-Forensics/blob/main/README.md)
   - [FTK Imager](https://github.com/AJENt8/FTK-Imager/blob/main/README.md)
-  - [HashCalc]()
+  - [HashCalc](https://github.com/AJENt8/HashCalc/blob/main/README.md)
   - [KAPE (Kroll Artifact Parser & Extractor) + EZViewer](https://github.com/AJENt8/Utilizing-KAPE-with-EZViewer/blob/main/README.md)
   
 - <b>🔒 Hands-On Vulnerability Labs</b>
